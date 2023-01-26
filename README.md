@@ -130,7 +130,9 @@ Decoder
 Encoder
 
 ![image](https://user-images.githubusercontent.com/119393642/214846420-6e6222bd-5779-4488-b842-b4b12a7be7c1.png)
+
 ![image](https://user-images.githubusercontent.com/119393642/214846455-b5af1234-c2f7-48ad-bdef-e2e81914ef94.png)
+
 ![image](https://user-images.githubusercontent.com/119393642/214846481-6e217d1c-a599-4f10-9410-2da45764d992.png)
 
 Decoder
